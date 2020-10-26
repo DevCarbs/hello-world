@@ -18,7 +18,7 @@ curl localhost:80
 go to ipaddress in browser                                  # If timeout, remember to open port 80 in sec group
 
 # Edit webpage contents 
-echo "text $(hostname-f)" > /var/www/html/index/html
+echo "text $(hostname-f)" > /var/www/html/index.html
 
 
 
