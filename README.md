@@ -1,2 +1,2 @@
 # hello-world
-Simple hello-world using AWS EC2 Instance
+Simple hello-world website using an AWS EC2 Instance
